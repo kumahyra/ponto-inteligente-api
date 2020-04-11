@@ -2,4 +2,4 @@ idioma: java
 jdk:
   - openjdk8
 antes de instalar:
-  - chmod + x mvnw
+  - chmod + x mvnw 
